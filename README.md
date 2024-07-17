@@ -12,7 +12,7 @@
 ## 📚 Tecnologías Utilizadas
 
 - **Java**: Lenguaje de programación principal.
-- **Spring Framework"**: Esencial para la aplicacion web.
+- **Spring Framework**: Esencial para la aplicacion web.
 
 ## 📌 Endpoints
 
