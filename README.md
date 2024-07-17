@@ -26,10 +26,6 @@ Claro, aquí tienes un ejemplo de README para tu proyecto de API REST de un foro
 - `PUT /api/topics/{id}`: Actualiza un tópico existente.
 - `DELETE /api/topics/{id}`: Elimina un tópico.
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
-
 ---
 
-¡Gracias por visitar el proyecto Foro API REST! Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue o contactarme.
+¡Gracias por visitar el proyecto Foro API REST! Si te gusta este proyecto, ¡dale una estrella ⭐ en GitHub!
