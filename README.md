@@ -6,6 +6,12 @@ Claro, aquí tienes un ejemplo de README para tu proyecto de API REST de un foro
 
 ¡Bienvenido al proyecto Foro API REST! Este proyecto está desarrollado en Java y proporciona una API RESTful para gestionar un foro en línea. En este foro, los usuarios pueden crear y gestionar tópicos relacionados con diferentes cursos.
 
+## 📚 Tecnologías Utilizadas
+
+- **Java**: Lenguaje de programación principal.
+- **Spring Framework"**: Esencial para la aplicacion web.
+
+
 ## 🚀 Características
 
 - **CRUD de Tópicos**: Crear, leer, actualizar y eliminar tópicos.
